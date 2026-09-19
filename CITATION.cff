@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "Please cite the archived software release and the associated manuscript."
+title: "Stress-Testing Gold-Aware and Gold-Free Failure Signals in Resolved SWE-bench Verified Patches: Replication Package"
+type: software
+repository-code: "https://github.com/Sunuywq/Stress-Testing"
+url: "https://github.com/Sunuywq/Stress-Testing"
+authors:
+  - family-names: "Sang"
+    given-names: "Ziyan"
+    orcid: "https://orcid.org/0009-0005-2962-6626"
+version: "2026-09-04-r29"
+date-released: 2026-09-04
+license: MIT
+abstract: >-
+  Reproduction code for a secondary analysis of PatchDiff full-developer-test
+  outcomes on resolved SWE-bench Verified patches. The package evaluates
+  gold-aware patch-volume and file-scope audit signals, a gold-free fixed
+  lexical/path triage baseline, and repository-level transportability.
+keywords:
+  - software engineering
+  - automated program repair
+  - SWE-bench Verified
+  - replication package
