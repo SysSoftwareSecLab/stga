@@ -45,4 +45,3 @@ For the exact version used in a paper, use its commit-specific link and record `
 
 The downstream code is distributed under the [MIT License](LICENSE). The separately downloaded PatchDiff artifact remains subject to its upstream terms. Citation metadata are in [CITATION.cff](CITATION.cff); cite the upstream data artifact as well when using its data.
 
-Please report reproducibility problems through [GitHub Issues](https://github.com/Sunuywq/Stress-Testing/issues), including the commit, command, environment and relevant error log. Do not post credentials or unrelated private files.
