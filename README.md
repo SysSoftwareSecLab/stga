@@ -9,7 +9,6 @@ This repository contains the verified **r29** downstream analysis of the version
 Run these commands in Bash from a writable directory. Git, curl and network access are required; setup installs uv if needed and retrieves the pinned inputs.
 
 ```bash
-git clone https://github.com/xxx.git
 cd /reproduce
 export UV_LINK_MODE=copy
 sh setup.sh
